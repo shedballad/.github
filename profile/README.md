@@ -1,11 +1,13 @@
 # Shedballad · شدبلد
 
-[Shedballad](https://www.shedballad.com) - **Media infrastructure - First-party from ingest to glass.**
+[Shedballad](https://www.shedballad.com) builds media infrastructure: first-party from ingest to glass.
 
-We build the pipeline that gets restored and licensed video onto screens across
-the world: a first-party media **engine**, a multi-tenant rendering and
-live-streaming **service**, and the streaming **platform** that runs on top of
-it. Everything is region-pinned to Google Cloud in Dammam (`me-central2`), on a
-royalty-free codec stack, with no DRM and no geo-locking.
+Three things:
+
+- **Rendering / transcoding** - media processing from master to adaptive-bitrate manifests.
+- **Low-latency live streaming** - first-party ingest, packaging, and delivery.
+- **Streaming platform** - the viewer-facing product running on top of both.
+
+Data and media processing stay resident in Saudi Arabia; no cross-border storage or transit.
 
 Part of [Alileus](https://www.alile.us).
