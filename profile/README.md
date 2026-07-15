@@ -8,4 +8,4 @@ live-streaming **service**, and the streaming **platform** that runs on top of
 it. Everything is region-pinned to Google Cloud in Dammam (`me-central2`), on a
 royalty-free codec stack, with no DRM and no geo-locking.
 
-Part of [Alileus](https://alile.us).
+Part of [Alileus](https://www.alile.us).
