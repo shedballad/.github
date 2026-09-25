@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title description">
+  <title id="title">Shedballad — From ingest to glass.</title>
+  <desc id="description">The Shedballad media infrastructure banner: white and pink lettering on a near-black ground, with loom warp threads parting to open a shed around the Arabic شدبلد mark.</desc>
+  <defs>
+    <linearGradient id="warp" gradientUnits="userSpaceOnUse" x1="760" y1="0" x2="940" y2="0">
+      <stop offset="0" stop-color="#ebebeb" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ebebeb" stop-opacity="0.13"/>
+    </linearGradient>
+    <linearGradient id="weft" gradientUnits="userSpaceOnUse" x1="760" y1="0" x2="940" y2="0">
+      <stop offset="0" stop-color="#f25aa6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#f25aa6" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="400" fill="#0e0e11"/>
+  <g fill="none" stroke-width="1.25">
+    <path d="M760 32H812C884 32 884 12 950 12H1280" stroke="url(#warp)"/>
+    <path d="M760 48H812C884 48 884 19 950 19H1280" stroke="url(#warp)"/>
+    <path d="M760 64H812C884 64 884 26 950 26H1280" stroke="url(#warp)"/>
+    <path d="M760 80H812C884 80 884 33 950 33H1280" stroke="url(#warp)"/>
+    <path d="M760 96H812C884 96 884 40 950 40H1280" stroke="url(#warp)"/>
+    <path d="M760 112H812C884 112 884 47 950 47H1280" stroke="url(#warp)"/>
+    <path d="M760 128H812C884 128 884 54 950 54H1280" stroke="url(#warp)"/>
+    <path d="M760 144H812C884 144 884 61 950 61H1280" stroke="url(#warp)"/>
+    <path d="M760 160H812C884 160 884 68 950 68H1280" stroke="url(#warp)"/>
+    <path d="M760 176H812C884 176 884 75 950 75H1280" stroke="url(#warp)"/>
+    <path d="M760 208H812C884 208 884 318 950 318H1280" stroke="url(#warp)"/>
+    <path d="M760 224H812C884 224 884 325 950 325H1280" stroke="url(#warp)"/>
+    <path d="M760 240H812C884 240 884 332 950 332H1280" stroke="url(#warp)"/>
+    <path d="M760 256H812C884 256 884 339 950 339H1280" stroke="url(#warp)"/>
+    <path d="M760 272H812C884 272 884 346 950 346H1280" stroke="url(#warp)"/>
+    <path d="M760 288H812C884 288 884 353 950 353H1280" stroke="url(#warp)"/>
+    <path d="M760 304H812C884 304 884 360 950 360H1280" stroke="url(#warp)"/>
+    <path d="M760 320H812C884 320 884 367 950 367H1280" stroke="url(#warp)"/>
+    <path d="M760 336H812C884 336 884 374 950 374H1280" stroke="url(#warp)"/>
+    <path d="M760 352H812C884 352 884 381 950 381H1280" stroke="url(#warp)"/>
+    <path d="M760 368H812C884 368 884 388 950 388H1280" stroke="url(#warp)"/>
+    <path d="M760 192H812C884 192 884 82 950 82H1280" stroke="url(#weft)" stroke-width="1.5"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="399" fill="none" stroke="#25252c"/>
+  <rect x="56" y="55" width="8" height="8" fill="#f25aa6"/>
+  <text x="78" y="65" fill="#ebebeb" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">SHEDBALLAD</text>
+  <path d="M255 48V70" stroke="#3a3a44"/>
+  <text x="275" y="65" fill="#94949e" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">MEDIA INFRASTRUCTURE</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="800" letter-spacing="-3">
+    <text x="52" y="201" fill="#ebebeb">From ingest</text>
+    <text x="52" y="286" fill="#f25aa6">to glass.</text>
+  </g>
+  <rect x="968" y="100" width="200" height="200" fill="#151519" stroke="#25252c"/>
+  <g transform="translate(960.86 92.86) scale(0.214286)" fill="#ebebeb">
+    <path d="M387.746 329.62H481.592V295.46H590.021V333.293L638.07 288.114L686.545 333.293V288.114L794.974 277.828V371.495C794.974 423.287 750.326 465.162 690.797 465.162H620.212V439.082C600.652 455.245 574.288 465.162 545.373 465.162H205V329.62H266.136L229.993 288.114L338.422 235.953L387.746 329.62Z"/>
+    <path d="M712.482 233.383L667.41 272.318L643.172 251.382L607.029 282.971L561.957 243.668L607.029 204.731L631.267 225.669L667.41 194.447L712.482 233.383Z"/>
+    <path d="M667.41 181.222L631.267 212.446L595.124 181.222L631.267 150L667.41 181.222Z"/>
+    <path d="M777.567 811.064L732.068 850L686.996 811.064L732.068 771.761L777.567 811.064Z"/>
+    <path d="M650.63 625.934H686.571V584.428L795 573.775V761.476H205V625.934H265.995L229.852 584.428L338.281 532.267L387.605 625.934H542.201V501.045L650.63 490.761V625.934Z"/>
+  </g>
+  <path d="M956 100H968M968 90V100M1168 90V100M1168 100H1180M956 300H968M968 300V310M1168 300V310M1168 300H1180" fill="none" stroke="#f25aa6" stroke-opacity="0.6"/>
+</svg>

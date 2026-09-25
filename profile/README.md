@@ -1,14 +1,22 @@
-# Shedballad · شدبلد
+<a href="https://www.shedballad.com">
+  <img src="https://raw.githubusercontent.com/shedballad/.github/main/profile/assets/shedballad-banner.svg" width="100%" alt="Shedballad — From ingest to glass. Media infrastructure." />
+</a>
 
-[Shedballad](https://www.shedballad.com) builds media infrastructure: first-party from ingest to glass.
+## Media infrastructure, first-party from ingest to glass.
 
-Four things:
+**Shedballad builds every layer between an archive and a screen**, and runs a streaming platform on top of it.
 
-- **Restoration and mastering** - archival film and video brought back to a modern master, and kept that way.
-- **Rendering / transcoding** - master to adaptive-bitrate manifests, AV1 and H.264.
-- **Low-latency live streaming** - first-party ingest, packaging, and delivery.
-- **Streaming platform** - the viewer-facing product running on top of all three.
+- **Restore** - archival film and video brought back to a modern master, and kept that way.
+- **Render** - masters to adaptive-bitrate manifests, H.264 and AV1.
+- **Go live** - first-party ingest, packaging, and low-latency delivery.
+- **Watch** - the viewer-facing platform, running on all three.
 
 Media processing and storage stay resident in Saudi Arabia; delivery runs over a global edge. Residency is a property of the data, not a limit on the audience.
 
-Part of [Alileus](https://www.alile.us).
+### The name
+
+In Saudi slang, **شدبلد** means factory-spec: as it left the maker, with no dealer modifications. In English, a *shed* is the opening in a loom that the thread passes through, and a *ballad* is a story sung.
+
+### Contact
+
+To watch, go to [shedballad.com](https://www.shedballad.com). For business or anything else, email [hala@shedballad.com](mailto:hala@shedballad.com). To report a vulnerability, follow our [security policy](https://github.com/shedballad/.github/blob/main/SECURITY.md).
